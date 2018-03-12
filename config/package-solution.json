@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "reactdemo-client-side-solution",
+    "id": "e1a2d49e-f75b-47bc-8bb7-466d82b7a87b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/reactdemo.sppkg"
+  }
+}
